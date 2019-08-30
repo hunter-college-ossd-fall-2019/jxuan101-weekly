@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am an Undergraduate student studying Computer Science at Hunter College. I am pursuing Computer Science because it  
-is my desire to make a difference towards the future of society. I am currently looking for any and all kinds of opportunities  
-to acquire experience in the Computer Science profession in the New York City area.
+I am an Undergraduate student studying Computer Science at Hunter College. I am pursuing Computer Science because it is my desire to make a difference towards the future of society. I am currently looking for any and all kinds of opportunities to acquire experience in the Computer Science profession in the New York City area.
 
 ### More Information
 
