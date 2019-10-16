@@ -19,7 +19,8 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  3   | <https://www.openstreetmap.org/changeset/74404137>   |  OpenStreet Map Feature |   Added recently opened Tiger Sugar with hours. |
-|  3   | <https://www.openstreetmap.org/changeset/74403712>   |  OpenStreet Map Feature |   Added Korean Tofu House with hours. |
-|  7   | <https://www.openstreetmap.org/changeset/75749588>   |  OpenStreet Map Feature |   Added Chuan Yue, a local and fairly new Szechuan cuisine restaurant great for spice lovers. |  
-|  7   | <https://www.openstreetmap.org/changeset/75751027>   |  OpenStreet Map Feature | Added Chuan Tian Xia, another szechuan restaurant that serves great spicy chinese dishes that will knock your socks off. |
+|  3  | <https://www.openstreetmap.org/changeset/74404137> | OpenStreet Map Feature | Added recently opened Tiger Sugar with hours. |
+|  3  | <https://www.openstreetmap.org/changeset/74403712> | OpenStreet Map Feature | Added Korean Tofu House with hours. |
+|  7  | <https://www.openstreetmap.org/changeset/75749588> | OpenStreet Map Feature | Added Chuan Yue, a local and fairly new Szechuan cuisine restaurant great for spice lovers. |  
+|  7  | <https://www.openstreetmap.org/changeset/75751027> | OpenStreet Map Feature | Added Chuan Tian Xia, another szechuan restaurant that serves great spicy chinese dishes that will knock your socks off. |  
+|  8  | <https://github.com/unseen1980/TravelResources/pull/25> | README Edit | Added OpenStreetMap as a map service. |
