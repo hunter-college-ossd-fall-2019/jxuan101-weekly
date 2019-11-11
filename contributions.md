@@ -27,3 +27,5 @@ Replace the first row below with your contribution.
 |  9  | <https://www.openstreetmap.org/changeset/76067887> | OpenStreet Map Feature | Added Holy Crab Boiling, a cajun/creole fusion restaurant that also serves live/raw seafood. |
 |  10  | <https://www.openstreetmap.org/changeset/76411426> | OpenStreet Map Feature | Added Kung Fu Tea, a bubble tea shop in 8th Ave Chinatown. |
 |  10  | <https://github.com/unseen1980/TravelResources/pull/33> | Project Documentation | Added Open Exchange Rates API as a currency API. |
+|  11  | <https://en.wikipedia.org/w/index.php?title=Hohnstein&oldid=925692009> | Wikipedia Edit | Changed the wording of the first sentence for the wikipedia article for the town "Hohnstein". |
+|  11  | <https://en.wikipedia.org/w/index.php?title=Inis_Cealtra&oldid=925690858> | Wikipedia Edit | Changed the wording of a sentence in the first paragraph for the wikipedia article for the island "Inis Cealtra". |
