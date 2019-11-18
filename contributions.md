@@ -29,3 +29,5 @@ Replace the first row below with your contribution.
 |  10  | <https://github.com/unseen1980/TravelResources/pull/33> | Project Documentation | Added Open Exchange Rates API as a currency API. |
 |  11  | <https://en.wikipedia.org/w/index.php?title=Hohnstein&oldid=925692009> | Wikipedia Edit | Changed the wording of the first sentence for the wikipedia article for the town "Hohnstein". |
 |  11  | <https://en.wikipedia.org/w/index.php?title=Inis_Cealtra&oldid=925690858> | Wikipedia Edit | Changed the wording of a sentence in the first paragraph for the wikipedia article for the island "Inis Cealtra". |
+|  12  | <https://en.wikipedia.org/w/index.php?title=Cenerentola&oldid=926785599> | Wikipedia Edit| Changed the wording of "17 Years Old" be to consistent with the description with the rest of the cast. |
+|  13  | <https://en.wikipedia.org/w/index.php?title=Tony_Taylor_(GC)&oldid=926786214> | Wikipedia Edit | Added a comma break for easier reading. |
