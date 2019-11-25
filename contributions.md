@@ -32,3 +32,4 @@ Replace the first row below with your contribution.
 |  12  | <https://en.wikipedia.org/w/index.php?title=Cenerentola&oldid=926785599> | Wikipedia Edit| Changed the wording of "17 Years Old" be to consistent with the description with the rest of the cast. |
 |  12  | <https://en.wikipedia.org/w/index.php?title=Tony_Taylor_(GC)&oldid=926786214> | Wikipedia Edit | Added a comma break for easier reading. |
 |  13  | <https://github.com/FreezingMoon/AncientBeast/issues/1599> | Project Issue | I suggested a fix in the Contributing guidelines. |
+|  13  | <https://github.com/FreezingMoon/AncientBeast/issues/1602> | Project Issue | I suggested opening an issue that accepts any pull requests regarding spell checks and typos. |
