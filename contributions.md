@@ -34,3 +34,4 @@ Replace the first row below with your contribution.
 |  13  | <https://github.com/FreezingMoon/AncientBeast/issues/1599> | Project Issue | I suggested a fix in the Contributing guidelines. |
 |  13  | <https://github.com/FreezingMoon/AncientBeast/issues/1602> | Project Issue | I suggested opening an issue that accepts any pull requests regarding spell checks and typos. |
 |  13  | <https://github.com/syntaxseed/terminalfaker/pull/28> | Project Code | I fixed the 'help' command not listing custom commands. |
+|  13  | <https://github.com/FreezingMoon/AncientBeast/pull/1604> | Project Documentation | I spell checked and fixed some typos in the codebase. |
